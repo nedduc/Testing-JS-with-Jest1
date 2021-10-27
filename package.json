@@ -1,0 +1,23 @@
+{
+  "name": "testing-js-with-jest1",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "sum.test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedduc/Testing-JS-with-Jest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedduc/Testing-JS-with-Jest1/issues"
+  },
+  "homepage": "https://github.com/nedduc/Testing-JS-with-Jest1#readme"
+}
